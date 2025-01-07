@@ -1,4 +1,4 @@
-module github.com/loki
+module github.com/backendArchitech/loki
 
 go 1.19
 
